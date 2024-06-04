@@ -106,17 +106,3 @@ This project is licensed under the MIT License
 ## Disclaimer
 This project is for educational purposes only. Do not use this code for any malicious activities. The author is not responsible for any misuse of this code.
 
-
-
-### Additional Steps
-
-1. **Create a `.gitignore` file:**
-   ```plaintext
-   __pycache__/
-   *.pyc
-   *.pyo
-   .env
-   logs/
-   ransomware_key.key
-
-
