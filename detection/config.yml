@@ -1,0 +1,7 @@
+directory_to_monitor: "../simulation/directory_to_encrypt"
+encryption_key_path: "../simulation/ransomware_key.key"
+alert_email: "your_email@example.com"
+smtp_server: "smtp.example.com"
+smtp_port: 587
+smtp_user: "your_email@example.com"
+smtp_password: "your_email_password"
